@@ -2,9 +2,9 @@ const sql = require('mysql2')
 
 const connection = sql.createConnection({
     host : "localhost",
-    user : "root",
-    password : 'peace',
-    database : 'demo'
+    user : "root",                //your sql user name (by default it is root for maany computer)
+    password : 'password',        //change to your database password
+    database : 'database name'    //your database name 
 });
 
 connection.connect((err)=>{
