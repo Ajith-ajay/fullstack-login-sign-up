@@ -56,7 +56,7 @@ npm install nodemon --save-dev
 
 ```bash
 # Clone the repository
-git clone [https://github.com/username/repository.git](https://github.com/Ajith-ajay/fullstack-login-sign-up.git)
+git clone https://github.com/Ajith-ajay/fullstack-login-sign-up.git
 
 # Navigate into the directory
 cd repository
@@ -89,4 +89,4 @@ npm start
 
 ## Usage
 
-*This is a student level project to understanding the basic of node.js framework as a backend to make a complete login and sign up page using the html ,css, javascript* 
+*This is a student level project to understanding the basic of node.js framework as a backend to make a complete login and sign up page using the html ,css, javascript with mySQL as database* 
